@@ -1,0 +1,8 @@
+{
+    "name": "motoboy/tarefas",
+    "autoload": {
+        "psr-4" : {
+            "Classes\\" : "classes/"
+        }
+    }
+}
