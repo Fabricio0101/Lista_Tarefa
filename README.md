@@ -21,4 +21,4 @@ Além de baixar o repositório, será preciso criar o banco de dados para que as
 
 5 - Será necessário utilizar o Apache para abrir um servidor local, recomendo utilizar o XAMPP.
 
-6 - Será necessário baixar um gerenciador de dependências "Composer". Link para download + documentação: "https://getcomposer.org/".
+6 - Será necessário baixar um gerenciador de dependências "Composer", link para download + documentação: "https://getcomposer.org/".
