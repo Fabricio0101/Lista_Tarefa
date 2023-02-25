@@ -12,9 +12,13 @@ Além de baixar o repositório, será preciso criar o banco de dados para que as
 
 1 - Baixar o arquivo SQL e executar. 
 
-2 - Após criar o banco de dados, ir no arquivo "bdconfig.php" e modificar algumas informações, tais como:
+2 - Recomendo criar o banco de dados com o nome "cadastro", pois vai evitar modificações no código para o pareamento com o banco de dados.
+
+3 - Após criar o banco de dados, ir no arquivo "bdconfig.php" e modificar algumas informações, tais como:
     ("dbHost", "dbUsername", "bdPassword", "dbName"). 
     
-3 - Deverão ser inseridas os dados do seu banco de dados nos respectivos campos das variáveis, que irão se conectar ao banco de dados.
+4 - Deverão ser inseridas os dados do seu banco de dados nos respectivos campos das variáveis, que irão se conectar ao banco de dados.
 
-4 - Será necessário utilizar o Apache para abrir um servidor local, recomendo utilizar o XAMPP.
+5 - Será necessário utilizar o Apache para abrir um servidor local, recomendo utilizar o XAMPP.
+
+6 - Será necessário baixar um gerenciador de dependências "Composer". Link para download + documentação: "https://getcomposer.org/".
