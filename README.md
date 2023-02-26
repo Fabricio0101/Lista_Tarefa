@@ -4,7 +4,7 @@
 
 Esse projeto, trata-se de uma lista de atividades, onde você pode criar novas atividades, editá-las, excluir e visualizar.
 
-Outras funções dessa lista é os status, a atividade pode estar concluida, porém pode ser reaberta caso queira.
+Outras funções dessa lista são os status, a atividade pode estar concluida, porém pode ser reaberta caso queira.
 
 # Como Usar
 
