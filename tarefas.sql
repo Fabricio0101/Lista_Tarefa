@@ -1,4 +1,4 @@
-CREATE TABLE tarefas (
+CREATE TABLE cadastro (
 	id INT AUTO_INCREMENT PRIMARY KEY,
 	nome VARCHAR(45),
 	senha VARCHAR(45),
