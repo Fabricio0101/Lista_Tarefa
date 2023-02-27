@@ -1,6 +1,6 @@
 # Lista_Tarefa
 
-# DESCRIÇÃO
+# Descrição
 
 Esse projeto, trata-se de uma lista de atividades, onde você pode criar novas atividades, editá-las, excluir e visualizar.
 
