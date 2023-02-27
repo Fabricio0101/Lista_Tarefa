@@ -10,7 +10,7 @@ Outras funções dessa lista são os status, a atividade pode estar concluida, p
 
 Além de baixar o repositório, será preciso criar o banco de dados para que as informações sejam armazenadas.
 
-1 - Baixar o arquivo SQL "Lista e Tarefas" e executar (respectivamente).
+1 - Baixar os arquivos SQL "Lista e Tarefas" e executar (respectivamente).
 
 2 - Recomendo criar o primeiro banco de dados com o nome "tarefas" e o segundo com o nome "cadastro", pois vai evitar modificações no código para o pareamento com o banco de dados.
 
