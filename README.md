@@ -10,12 +10,15 @@ Outras funções dessa lista são os status, a atividade pode estar concluida, p
 
 Além de baixar o repositório, será preciso criar o banco de dados para que as informações sejam armazenadas.
 
-1 - Baixar o arquivo SQL e executar. 
+1 - Baixar o arquivo SQL "Lista e Tarefas" e executar (respectivamente).
 
-2 - Recomendo criar o banco de dados com o nome "cadastro", pois vai evitar modificações no código para o pareamento com o banco de dados.
+2 - Recomendo criar o primeiro banco de dados com o nome "tarefas" e o segundo com o nome "cadastro", pois vai evitar modificações no código para o pareamento com o banco de dados.
 
-3 - Após criar o banco de dados, ir no arquivo "bdconfig.php" e modificar algumas informações, tais como:
-    ("dbHost", "dbUsername", "bdPassword", "dbName"). 
+3 - Após criar o banco de dados, ir nos arquivos "config.php" e "bdconfig.php" e modificar algumas informações, tais como:
+    
+    Em config.php ("BD_HOST", "BD_PORT", "BD_USER", "BD_PASS", "BD_NAME").
+    
+    Em bdconfig.php ("dbHost", "dbUsername", "bdPassword", "dbName"). 
     
 4 - Deverão ser inseridas os dados do seu banco de dados nos respectivos campos das variáveis, que irão se conectar ao banco de dados.
 
